@@ -32,8 +32,6 @@ bower_components/
 # WebStorm
 .idea
 
-# dist
-#dist
 
 # packed npm module
 *.tgz
